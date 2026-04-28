@@ -33,9 +33,7 @@ Fully pipeline-based implementation
 Train-test split evaluation
 
 Models:
-MLP
-
-Random Forest
+MLP, Random Forest
 
 #Key Findings
 
